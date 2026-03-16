@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.core.settings import settings
-from app.routes import health
+from app.routes import health, stocks
 from app.core.logging import logger
 
 def get_application() -> FastAPI:
@@ -22,6 +22,7 @@ def get_application() -> FastAPI:
 
     # Include routers
     application.include_router(health.router, prefix=settings.API_V1_STR, tags=["health"])
+    application.include_router(stocks.router, prefix=settings.API_V1_STR)
 
     return application
 

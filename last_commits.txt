@@ -1,0 +1,5 @@
+commit 2227601c8d38fe4e06690e0c45dc58c74952da3d
+Author: TORIBUSTOS <rbustos@sanarte.com.ar>
+Date:   Thu Mar 5 13:24:41 2026 -0300
+
+    ARGOS initial backend architecture

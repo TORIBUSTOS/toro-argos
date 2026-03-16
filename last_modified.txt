@@ -1,0 +1,10 @@
+C:\Users\mauri\OneDrive\Escritorio\TORO\_TORO _HOLDING_\05 - Proyectos TORO\_ARGOS\last_modified.txt - 03/06/2026 01:54:42
+C:\Users\mauri\OneDrive\Escritorio\TORO\_TORO _HOLDING_\05 - Proyectos TORO\_ARGOS\last_commits.txt - 03/06/2026 01:54:42
+C:\Users\mauri\OneDrive\Escritorio\TORO\_TORO _HOLDING_\05 - Proyectos TORO\_ARGOS\brand\unnamed.png - 03/05/2026 21:02:16
+C:\Users\mauri\OneDrive\Escritorio\TORO\_TORO _HOLDING_\05 - Proyectos TORO\_ARGOS\_internal\files\tecnico-bursatil-vibe-coding-completo\deep research1.md - 03/05/2026 18:20:24
+C:\Users\mauri\OneDrive\Escritorio\TORO\_TORO _HOLDING_\05 - Proyectos TORO\_ARGOS\backend\app\services\market_scanner.py - 03/05/2026 15:26:05
+C:\Users\mauri\OneDrive\Escritorio\TORO\_TORO _HOLDING_\05 - Proyectos TORO\_ARGOS\backend\app\services\signal_engine.py - 03/05/2026 15:26:02
+C:\Users\mauri\OneDrive\Escritorio\TORO\_TORO _HOLDING_\05 - Proyectos TORO\_ARGOS\backend\app\data\__pycache__\universe.cpython-312.pyc - 03/05/2026 14:14:42
+C:\Users\mauri\OneDrive\Escritorio\TORO\_TORO _HOLDING_\05 - Proyectos TORO\_ARGOS\backend\app\data\universe.py - 03/05/2026 14:14:15
+C:\Users\mauri\OneDrive\Escritorio\TORO\_TORO _HOLDING_\05 - Proyectos TORO\_ARGOS\backend\app\data\finnhub_client.py - 03/05/2026 14:08:03
+C:\Users\mauri\OneDrive\Escritorio\TORO\_TORO _HOLDING_\05 - Proyectos TORO\_ARGOS\backend\app\data\__pycache__\finnhub_client.cpython-312.pyc - 03/05/2026 14:04:31
